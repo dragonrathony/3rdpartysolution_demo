@@ -14,7 +14,7 @@
                 <!--begin::Breadcrumb-->
                 <ul class="breadcrumb breadcrumb-line text-muted fw-bold fs-base my-1">
                     <li class="breadcrumb-item text-muted">
-                        <a href="../dist/index.html" class="text-muted">Home</a>
+                        <a href="/" class="text-muted">Home</a>
                     </li>
                     <li class="breadcrumb-item text-dark">Dashboard</li>
                 </ul>
@@ -40,7 +40,7 @@
                 </div>
                 <!--end::Aside mobile toggle-->
                 <!--begin::Logo-->
-                <a href="../dist/index.html" class="d-flex align-items-center">
+                <a href="/" class="d-flex align-items-center">
                     <img alt="Logo" src="assets/media/logos/logo-default.svg" class="h-40px"/>
                 </a>
                 <!--end::Logo-->

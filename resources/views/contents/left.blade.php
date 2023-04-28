@@ -1245,7 +1245,7 @@
                                     </div>
                                 </div>
                                 <div class="menu-item mb-1">
-                                    <a class="menu-link active" href="../dist/index.html">
+                                    <a class="menu-link active" href="/">
 															<span class="menu-icon">
 																<!--begin::Svg Icon | path: icons/duotune/general/gen025.svg-->
 																<span class="svg-icon svg-icon-2">

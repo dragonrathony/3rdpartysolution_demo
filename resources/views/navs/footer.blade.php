@@ -833,7 +833,7 @@
                            for="kt_user_menu_dark_mode_toggle">
                         <input class="form-check-input w-30px h-20px" type="checkbox" value="1"
                                name="mode" id="kt_user_menu_dark_mode_toggle"
-                               data-kt-url="../dist/index.html"/>
+                               data-kt-url="/"/>
                         <span class="pulse-ring ms-n1"></span>
                         <span class="form-check-label text-gray-600 fs-7">Dark Mode</span>
                     </label>

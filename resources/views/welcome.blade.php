@@ -19,7 +19,7 @@
                 <!--begin::Logo-->
                 <div class="aside-logo d-none d-lg-flex flex-column align-items-center flex-column-auto py-10"
                      id="kt_aside_logo">
-                    <a href="../dist/index.html">
+                    <a href="/">
                         <img alt="Logo" src="assets/media/logos/logo-default.svg" class="h-50px"/>
                     </a>
                 </div>
